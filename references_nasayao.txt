@@ -1,0 +1,17 @@
+REFERENCES:
+
+
+AAT Bioquest, Inc. (2024, July 27). Capsaicin toxicity (LD50). https://www.aatbio.com/resources/toxicity-lethality-median-dose-td50-ld50/capsaicin
+
+Anthropic. (2026). Claude (Sonnet 5) [Large language model]. https://claude.ai/
+
+Flinn Scientific, Inc. (2016, January 28). Menthol safety data sheet (SDS #496). https://www.flinnsci.com/sds_496-menthol/sds_496
+
+National Pesticide Information Center. (n.d.). Capsaicin technical fact sheet. Oregon State University. Retrieved September 11, 2026, from https://npic.orst.edu/factsheets/archive/Capsaicintech.html
+
+T3DB. (n.d.). Menthol. Toxin and Toxin Target Database. Retrieved September 11, 2026, from https://www.t3db.ca/toxins/T3D3224.xml
+
+U.S. Food and Drug Administration. (n.d.). Spilling the beans: How much caffeine is too much? Retrieved September 11, 2026, from https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much
+
+
+
